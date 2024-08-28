@@ -1,0 +1,8 @@
+游戏时长（秒）      得分        玩家姓名
+46               120             xh
+100	         140	       admin1
+32	         80	       admin2 
+65		  80		 nameless 
+143		  240		 xh 
+31		  100		 admin3 
+14		  40		 test 
